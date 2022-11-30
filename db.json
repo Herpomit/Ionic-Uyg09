@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "adi": "Merhaba",
+      "kaytarih": "1669743846741",
+      "duztarih": "1669743846741"
+    }
+  ],
+  "users": [
+    {
+      "id": 3,
+      "adsoyad": "Canberk",
+      "mail": "canberk@mail.com",
+      "admin": "1",
+      "parola": "123",
+      "kaytarih": "1669217650108",
+      "duztarih": "1669727564975"
+    }
+  ]
+}
